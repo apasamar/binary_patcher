@@ -6,7 +6,7 @@ script have help, invoke them without parameters.
 Example:
 
 ./search <text> <file>
-# select the offset and length
+#select the offset and length
 
 ./txt2hex <ascii text to patch>
 #select the hex text
