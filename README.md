@@ -2,6 +2,8 @@
 
 Originally created to patch Office Files Metadata (.doc, .xls, .ppt)
 
+Video Demo -> https://youtu.be/z9DfCAhwObA
+
 The scripts have usage help, invoke them without parameters.
 
 # Example:
