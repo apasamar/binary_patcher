@@ -4,9 +4,9 @@ Originally created to patch Office Files Metadata (.doc, .xls, .ppt)
 
 The scripts have usage help, invoke them without parameters.
 
-# Example:
+# Example:
 
-## select the offset and length
+## select the offset and length
 ./search <text> <file>
 
 ## select the hex text
