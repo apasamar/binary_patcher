@@ -1,14 +1,16 @@
-Binary file patcher
+# Binary file patcher
+
 Originally created to patch Office Files Metadata (.doc, .xls, .ppt)
 
-script have help, invoke them without parameters.
+The scripts have usage help, invoke them without parameters.
 
-Example:
+# Example:
 
+## select the offset and length
 ./search <text> <file>
-#select the offset and length
 
+## select the hex text
 ./txt2hex <ascii text to patch>
-#select the hex text
 
+## PATCH IT!
 ./patch_file.sh <offset> <hex text to patch> <file_to_patch> 
